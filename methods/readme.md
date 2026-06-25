@@ -10,4 +10,4 @@ below 30, depth values below 10, and occupy less than 10% of reads, or allele fr
 (Cingolani 2012). The effects of the variants were then visualized by type using ngi_visualizations (https://github.com/NationalGenomicsInfrastructure/ngi_visualizations/). Genes with high-impact variants from each genome were 
 then mapped to UniProtKB (Bateman et al. 2023) entries of their protein products for function identification via gene ontology and their presence in each genome was visualized as a Seaborn (Waskom 2021) heatmap.
 
-*snpEff reports for each genome and UniProt ID mapping/gene ontologies are attached in this folder*
+*snpEff reports for each genome and a spreadsheet containing UniProt ID mapping results + gene ontologies are attached in this folder*
