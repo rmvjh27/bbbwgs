@@ -1,4 +1,4 @@
-**Introduction**
+## **Introduction**
 
 *Salmonella* Typhimurium is associated with foodborne infections and is one of the main non-typhoidal serovars of *Salmonella enterica* isolated (Perez-Sepulveda & Hinton 2025). In particular, 
 *S*. Typhimurium causes gastroenteritis in humans, and it has a broad host range and replicates in the intestine (Galán 2021). 
