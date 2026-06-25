@@ -1,1 +1,13 @@
-X
+**Results**
+
+Alignment of sample genomes to the reference and variant identification indicate the presence of two components comprising the S. Typhimurium genome, namely a bacterial chromosome and the pSLT plasmid. The effective lengths of the chromosome and pSLT based on variant annotation are 4.857 Mb and 93.933 kb, respectively. Accession SRR38876376 has the most chromosomal variants and plasmid variants compared to other genomes. The number of variants and variant rate of each sample are shown in Figure 1. Samples lacking pSLT data have low-depth reads for this plasmid.
+
+Single-nucleotide polymorphisms (SNPs) are the most numerous variants across all genomes, followed by multiple-nucleotide polymorphisms (MNPs). The most common effect exhibited by these SNPs are downstream and upstream gene variants, followed by synonymous, missense, and intergenic variants. Other variants such as frameshift, non-coding transcript exon, start/stop codon gain or loss, and inframe indel variants are less common. Figure 2 shows the log-transformed number of variants for each variant type across all genomes, and Figure 3 visualizes the number of each SNP effect for each genome.
+
+fig2 link here
+
+fig3 link here
+
+A total of 41 genes with high-impact variants across all genomes were successfully mapped to UniProtKB entries of their protein products. Among these genes, sodium ion transport and DNA-templated transcription are the most numerous gene ontologies across all genomes, followed by regulation of single-species biofilm formation, defense response to virus, and oligosaccharide catabolic process (Figure 4). All genomes have variants of oadA and ydiV compared to the reference, while genomes SRR39099216 and ERR023773 have variants for artJ and macB. Genomes SRR38895580 and ERR023773 have variants for lpfD, treC, ybfE, and ygbE. Only genomes SRR38876376 and SRR38943380 have variants for nanH (Figure 5).
+
+Variants for bcsG, dmsD, fepE, and mdtK are only present in genome SRR39099216. Genome SRR38876376 has most unique gene variants compared to other genomes. Genome SRR10178266 has the least number of genes with variants, dinB, sbmA, sseL, and ygdG variants exclusively present in this genome, followed by genome SRR38943380 with variants for bisC, ftsX, phsC, and ydiN. Variants for iaaA, phoE, steC, and ydiF are exclusive to genome SRR38895580, while genome ERR023773 is characterized by variants for patA, phnT, prfB, trmL, and yajI.
