@@ -1,6 +1,6 @@
-**Results**
+## **Results**
 
-Alignment of sample genomes to the reference and variant identification indicate the presence of two components comprising the S. Typhimurium genome, namely a bacterial chromosome and the pSLT plasmid. The effective lengths of the chromosome and pSLT based on variant annotation are 4.857 Mb and 93.933 kb, respectively. Accession SRR38876376 has the most chromosomal variants and plasmid variants compared to other genomes. The number of variants and variant rate of each sample are shown in Figure 1. Samples lacking pSLT data have low-depth reads for this plasmid.
+Alignment of sample genomes to the reference and variant identification indicate the presence of two components comprising the *S*. Typhimurium genome, namely a bacterial chromosome and the pSLT plasmid. The effective lengths of the chromosome and pSLT based on variant annotation are 4.857 Mb and 93.933 kb, respectively. Accession SRR38876376 has the most chromosomal variants and plasmid variants compared to other genomes. The number of variants and variant rate of each sample are shown in Figure 1. Samples lacking pSLT data have low-depth reads for this plasmid.
 
 ***Figure 1 Number and rate of variants across *S*. Typhimurium genomes***
 <img src="https://github.com/rmvjh27/bbbwgs/blob/341417ce13017b54919b50a773588eb8e2f75fe0/results/miniproject_table1.png" alt="fig1" width="500" height="175"/>
