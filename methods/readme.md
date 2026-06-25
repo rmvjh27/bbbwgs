@@ -1,4 +1,4 @@
-**Methods**
+## **Methods**
 
 Raw data of *S*. Typhimurium genomes sampled in the United States, United Kingdom, Germany, Malawi, China, and Mexico (accessions SRR39099216, SRR38876376, SRR38895580, ERR023773, SRR10178266, and SRR38943380 respectively) 
 were downloaded from the NCBI SRA and assessed for quality using FastQC (Andrews et al. 2010). Adapters or low-quality reads were removed from the data using Fastp 
