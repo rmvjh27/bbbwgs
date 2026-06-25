@@ -3,7 +3,7 @@
 Alignment of sample genomes to the reference and variant identification indicate the presence of two components comprising the *S*. Typhimurium genome, namely a bacterial chromosome and the pSLT plasmid. The effective lengths of the chromosome and pSLT based on variant annotation are 4.857 Mb and 93.933 kb, respectively. Accession SRR38876376 has the most chromosomal variants and plasmid variants compared to other genomes. The number of variants and variant rate of each sample are shown in Figure 1. Samples lacking pSLT data have low-depth reads for this plasmid.
 
 ***Figure 1 Number and rate of variants across *S*. Typhimurium genomes***
-<img src="https://github.com/rmvjh27/bbbwgs/blob/341417ce13017b54919b50a773588eb8e2f75fe0/results/miniproject_table1.png" alt="fig1" width="500" height="175"/>
+<img src="https://github.com/rmvjh27/bbbwgs/blob/341417ce13017b54919b50a773588eb8e2f75fe0/results/miniproject_table1.png" alt="fig1" width="750" height="250"/>
 
 Single-nucleotide polymorphisms (SNPs) are the most numerous variants across all genomes, followed by multiple-nucleotide polymorphisms (MNPs). The most common effect exhibited by these SNPs are downstream and upstream gene variants, followed by synonymous, missense, and intergenic variants. Other variants such as frameshift, non-coding transcript exon, start/stop codon gain or loss, and inframe indel variants are less common. Figure 2 shows the log-transformed number of variants for each variant type across all genomes, and Figure 3 visualizes the number of each SNP effect for each genome.
 
