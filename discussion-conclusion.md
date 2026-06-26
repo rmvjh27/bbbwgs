@@ -87,5 +87,5 @@ intermediates or products of carbohydrate metabolism pathways, such as the shiki
 The presence of unique high-impact gene variants within *S*. Typhimurium genomes from different geographical sampling locations reflects the diversity of molecular mechanisms, ecological niches, and environmental pressures faced by these genomes. 
 Environmental differences in geographical locations where each genome is sampled allow the persistence of variants of genes pertaining to specific functions such as involvement in specific metabolic pathways, regulation of gene expression, defense 
 against viruses or antibiotics, transport of various substances across membranes, biofilm formation, or various methods of virulence. Therefore, adaptations and alternate mechanisms to these functions that arise due to these gene variants can be 
-inferred from gene variants, whether they are shared by different *S*. Typhimurium populations or unique to a specific population.
+inferred from gene variants, whether they are shared by different *S*. Typhimurium populations or unique to a specific population. Furthermore, high-impact gene variants that differ from one population to another can be used to determine a population's origin.
 
