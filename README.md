@@ -1,9 +1,10 @@
-# bbbwgs
-Mini project for Bioinformatics Beginner Bootcamp in Whole Genome Sequencing
-## Comparison of high-impact gene variants in *Salmonella enterica* subsp. Enterica serovar Typhimurium genomes across geographical locations
-### Abstract
-Abstract here (TBA)
-### References
+# Comparison of high-impact gene variants in *Salmonella enterica* subsp. Enterica serovar Typhimurium genomes across geographical locations
+## Abstract
+*Salmonella* Typhimurium is a non-typhoidal serovar of *Salmonella enterica* capable of causing gastroenteritis, with non-typhoidal invasive *Salmonella* infections exhibiting disease burden worldwide. Genetic variations between *S.* Typhimurium populations are likely, as there are broad-host and specific host-adapted populations with differing geographical distributions. Six sequencing reads of *S.* Typhimurium from various sampling locations were subjected to a standard whole-genome sequencing data workflow, which comprises of quality control, preprocessing, alignment to a reference *S*. Typhimurium genome, variant calling and annotation, as well as functional
+analysis of genes with high-impact variants via gene ontology. The findings reveal that *S.* Typhimurium genomes from different sampling
+locations exhibit unique signature high-variant genes that differ from one genome to another. This indicates that the populations of
+*S.* Typhimurium with each genome underwent different adaptations to their respective environments.
+## References
 - Anderson, A.C., Burnett, A.J.N., Hiscock, L., Maly, K.E. & Weadge, J.T., 2020, 'The Escherichia coli cellulose synthase subunit G (BcsG) is a Zn2+-dependent phosphoethanolamine transferase', _Journal of Biological Chemistry_, 295(18), 6225-6235.
 - Andrews, S., Krueger, F., Segonds-Pichon, A., Biggins, L., Krueger, C. & Wingett, S., 2010, 'FastQC', _A quality control tool for high throughput sequence data_, 370.
 - Arabyan, N., Park, D., Foutouhi, S., Weis, A.M., Huang, B.C., Williams, C.C., Desai, P., Shah, J., Jeannotte, R. & Kong, N., 2016, 'Salmonella degrades the host glycocalyx leading to altered infection and glycan remodeling', _Scientific reports_, 6(1), 29525.
